@@ -1,0 +1,18 @@
+Homework 4 - Feynman Writing Prompts
+Callback Functions
+    A callback function is a function or piece of code that can be passed into another function as an argument or parameter. 
+
+Closure
+    Closure allows functions inside of outer functions to use the variables in the outer functions. 
+
+Arguments
+    The arguments keyword allows you to access the arguments in an array full of arguments to pass into a function. 
+
+Recursion
+    Recursion is when a function calls itself. And it requires identifying a base case that identifies when to stop calling itself. 
+
+Prototype
+    An object prototype is also an object. Every object also has a prototype, but all objects inherit their properties and methods from their prototype. 
+    
+Constructors
+    A constructor method is a special method for creating an object. They are special types of functions. A constructor returns an object that has methods and properties that fill out the same way every time it’s called. 
